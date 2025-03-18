@@ -1,4 +1,5 @@
 # RUG360: A Dynamic Random User Generated 360° Video Quality Dataset
+The Dataset and further details **will be available soon**
 
 ## Authors
 Manav Arun Mehta, Jainil Kiran Patel, Akshit Choudhary, Daksh Chaudhary, Pramit Mazumdar  
