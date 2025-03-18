@@ -15,10 +15,7 @@ The RUG360 dataset is intended for research in **video quality assessment (VQA),
 1. Benchmark their video quality models.
 2. Train and evaluate new VQA algorithms.
 3. Study the impact of real-world distortions in 360° videos.
-
-## Citation
-If you use RUG360 in your research, please cite our work as follows:
-
+   
 ## Contact
 For any inquiries regarding the dataset, please contact the authors at **[202252344@iiitvadodara.ac.in]**.
 
