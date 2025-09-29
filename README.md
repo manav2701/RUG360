@@ -1,4 +1,4 @@
-# RUG360: A Dynamic Random User Generated 360° Video Quality Dataset
+# A Multi-Codec Distortion Dataset for Quality Assessment of Non-professional User-Generated 360° Videos
 The Dataset and further details **will be available soon**
 
 ## Authors
