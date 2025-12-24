@@ -1,14 +1,27 @@
-# A Multi-Codec Distortion Dataset for Quality Assessment of Non-professional User-Generated 360° Videos
-The Dataset and further details **will be available soon**
+# RUG360: A Dataset for Quality Assessment of
+Randomly Captured 360° Videos with Real-World Distortions **will be available soon**
 
 ## Authors
-Manav Arun Mehta, Jainil Kiran Patel, Akshit Choudhary, Daksh Chaudhary, Pramit Mazumdar  
+Manav Arun Mehta, Pramit Mazumdar,  Kalyan Chatterjee, Sweta Dey, Mudassir Khan, Jehad Ali
 Indian Institute of Information Technology Vadodara, India
 
 ## Abstract
-The increasing accessibility of immersive technologies has empowered content creators to generate 360° videos in dynamic, real-world settings, often captured handheld and in motion. This variability introduces complexities in video quality and necessitates the assessment of Quality of Experience through subjective tests as a key aspect of developing novel immersive media systems.
-
-In this project, we introduce **RUG360**, a novel Random User-Generated Content (RUGC) dataset comprising **81 transcoded sequences from 9 original videos**. To evaluate its characteristics, we conducted a **Subjective Video Quality Assessment (VQA)** study with **81 participants**, collecting **2,214 scores** using the **Modified Absolute Category Rating (Modified-ACR)** method. We then analyzed the dataset’s performance alongside objective quality metrics. The results indicate that the dataset’s perceptual quality reflects the capture of real-world scenarios, as opposed to the controlled conditions of laboratory environments.
+User-generated 360° video content is gaining popularity due to availability of
+low-cost acquisition devices and its inherent immersive nature. However, such
+videos often exhibit unpredictable real-world artifacts including handheld camera
+motion, illumination variability, compression impairments, and accidental occlusions which are specific for user-generated videos. Therefore, it is necessary for
+assessing quality of such videos before they are shared over the online social media
+platforms and consumed through head mounted displays. In this direction, there
+is a necessity of a dataset having user-generated 360° videos with specific distortions related to acquisition in non-professional setting. To address this gap, we
+introduce RUG360, a real-world 360° video quality assessment dataset designed
+to consider user-generated content specific distortion aware videos along with mean opinion scores. RUG360 consists of randomly captured source videos covering multiple category types that are recorded across three conditions, indoor,
+outdoor-day, and outdoor-night environments. The impaired sequences are generated using three standard codecs H.264, H.265, and VP9 at varying bitrate
+and quantization parameters. Subjective quality evaluation is conducted using
+an HMD-based using Modified Absolute Category Rating protocol, along with
+Simulator Sickness Questionnaire assessments to capture time-dependent viewer
+discomfort in accordance with ITU-T P.919 recommendations. We implement
+benchmark quality assessment metric on RUG360 dataset and report the results.
+The dataset is made publicly available for testing quality assessment models
 
 ## Usage
 The RUG360 dataset is intended for research in **video quality assessment (VQA), quality of experience (QoE), and immersive media analysis**. Researchers can use this dataset to:
