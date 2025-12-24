@@ -1,5 +1,5 @@
 # RUG360: A Dataset for Quality Assessment of Randomly Captured 360° Videos with Real-World Distortions 
-**will be available soon**
+**Will be available soon**
 
 ## Authors
 Manav Arun Mehta, Pramit Mazumdar,  Kalyan Chatterjee, Sweta Dey, Mudassir Khan, Jehad Ali
