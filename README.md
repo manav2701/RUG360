@@ -2,7 +2,7 @@
 **Public dataset will be available soon**
 
 ## Authors
-Manav Arun Mehta, Pramit Mazumdar,  Kalyan Chatterjee, Sweta Dey, Mudassir Khan, Raja Shekar Kadurka *(Corresponding Author)*
+Manav Arun Mehta, Pramit Mazumdar,  Kalyan Chatterjee, Sweta Dey, Mudassir Khan, Raja Shekar Kadurka
 
 ## Abstract
 
