@@ -1,6 +1,5 @@
-# RUG360: A Dataset for Quality Assessment of Randomly Captured 360° Videos with Real-World Distortions 
-**Will be available soon**
----
+# RBD-360: A Realistic Benchmark for Quality Analysis of Distorted 360° Videos 
+**Public dataset will be available soon**
 
 ## Authors
 Manav Arun Mehta, Pramit Mazumdar,  Kalyan Chatterjee, Sweta Dey, Mudassir Khan, Raja Shekar Kadurka *(Corresponding Author)*
